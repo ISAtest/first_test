@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a5ed0bf-fe68-48cf-ab00-f92a91b7bd6d" name="Default" comment="second push">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="1a5ed0bf-fe68-48cf-ab00-f92a91b7bd6d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="first_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,7 +113,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
@@ -165,7 +164,7 @@
       <workItem from="1484217656596" duration="1253000" />
       <workItem from="1484219063674" duration="178000" />
       <workItem from="1484219317177" duration="3424000" />
-      <workItem from="1484223334399" duration="3675000" />
+      <workItem from="1484223334399" duration="3917000" />
     </task>
     <task id="LOCAL-00001" summary="first downloading index">
       <created>1484217825854</created>
@@ -181,11 +180,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484222827053</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="third push">
+      <created>1484227453857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1484227453857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8530000" />
+    <option name="totallyTimeSpent" value="8772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="888" y="0" width="1041" height="1056" extended-state="0" />
@@ -225,7 +231,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first downloading index" />
     <MESSAGE value="second push" />
-    <option name="LAST_COMMIT_MESSAGE" value="second push" />
+    <MESSAGE value="third push" />
+    <option name="LAST_COMMIT_MESSAGE" value="third push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
